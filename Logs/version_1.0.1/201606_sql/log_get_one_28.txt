@@ -1,0 +1,2 @@
+[time:03:55:30]-[sql:SELECT * FROM `p_info` WHERE `enable` = '1' ORDER BY `version` DESC]
+[time:04:18:41]-[sql:SELECT * FROM `p_info` WHERE `enable` = '1' ORDER BY `version` DESC]
